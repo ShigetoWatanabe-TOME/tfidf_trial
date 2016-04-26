@@ -23,3 +23,30 @@ run computer domestic computer-test/6197388 > hoge
 run computer domestic computer-test/6197388 
 run computer domestic computer-test/6197388 ]
 run computer domestic computer-test/6197388 
+ls
+run computer domestic
+run train computer domestic
+ls
+run train computer domestic
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388
+run train computer domestic
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388
+run train computer domestic
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388
+run train computer domestic
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 2
+run train computer domestic economy entertainment local science sports world
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 2
+ls
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 2
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 4
+[
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 4
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 0
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 1
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 2
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 3
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 4
+run test Train_bow.txt Train_idf.txt Train_tfidf.txt computer-test/6197388 3
+ls
